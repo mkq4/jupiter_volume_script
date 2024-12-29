@@ -1,6 +1,6 @@
 # Jupiter Volume Script
 
-## [Author: @cryptomakaquich](t.me/cryptomakaquich)
+## [Author: t.me/cryptomakaquich
 
 ## 📄 Описание
 Крутим обём, получаем дроп
@@ -49,6 +49,6 @@ python main.py
 
 ### 📌 Важные замечания
 Если есть вопросы по скрипту или что-то другое - пишите в личку тг @mkqch 
-🐒 и подпишитесь на тг [канал автора](t.me/cryptomakaquch) 🐒
+🐒 и подпишитесь на тг t.me/cryptomakaquch 🐒
 
 всем профита, сибилы! 🦍
