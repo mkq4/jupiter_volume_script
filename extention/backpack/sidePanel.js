@@ -1,0 +1,1 @@
+chrome.runtime.onMessage.addListener(((e,n,o)=>{"CLOSE_SIDE_PANEL"===e.type&&(o(!0),window.close())}));

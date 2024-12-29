@@ -1,0 +1,5 @@
+requests
+playwright
+loguru
+solathon
+fake-useragent
