@@ -1,5 +1,5 @@
 DEFAULT_DELAY = 5
-PROXY = ''
+PROXY = '' #если не будете использовать - почистите proxies.txt
 
 BP_EXTENTION_IDENTIFIER = 'aflkmfhebedbjioipglgcbcmnbpgliof'
 
