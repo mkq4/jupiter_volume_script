@@ -40,8 +40,6 @@ async def connect_wallet(context: BrowserContext, wallet: Wallet):
         await jupiter_page.bring_to_front()
         
         await asyncio.sleep(2)
-        print("huge delay")
-        # await asyncio.sleep(40000000)
         
         jupiter_z_button = jupiter_page.locator('//*[@id="__next"]/div[2]/div[3]/div[2]/div[2]/div[2]/div[2]/form/div[4]/div/div[2]')
         await expect(jupiter_z_button).to_be_visible()
